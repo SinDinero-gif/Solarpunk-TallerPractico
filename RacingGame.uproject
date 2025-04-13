@@ -22,6 +22,10 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintSnapNodes",
+			"Enabled": true
 		}
 	]
 }
